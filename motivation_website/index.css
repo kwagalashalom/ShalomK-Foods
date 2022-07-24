@@ -1,0 +1,25 @@
+#landingpage{
+    background-image: url(./assets/images/Capture1.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    border: 1px;
+    padding-top: 50%;
+}
+#landingimage{
+    background-image: url(./assets/images/Capture1.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 120vh;
+    padding-top: 30%;
+}
+/* #corevalues{
+    background-image: url(./assets/images/Capture1.JPG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 10%;
+} */
